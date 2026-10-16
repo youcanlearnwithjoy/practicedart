@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:companion/mvc/model_ex.dart';
+import 'package:companion/dart/mvc/model_ex.dart';
 
 class UserController{
   final UserModel _user = UserModel(name: 'Alice', points: 50);

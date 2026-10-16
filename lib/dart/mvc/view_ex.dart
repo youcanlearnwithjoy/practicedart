@@ -1,4 +1,4 @@
-import 'package:companion/mvc/controller_ex.dart';
+import 'package:companion/dart/mvc/controller_ex.dart';
 import 'package:flutter/material.dart';
 
 class UserProfileMVCView extends StatefulWidget {

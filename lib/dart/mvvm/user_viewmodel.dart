@@ -1,6 +1,6 @@
-import 'package:companion/mvvm/user_model.dart';
-import 'package:companion/mvvm/user_repo.dart';
-import 'package:companion/mvvm/user_uistate.dart';
+import 'package:companion/dart/mvvm/user_model.dart';
+import 'package:companion/dart/mvvm/user_repo.dart';
+import 'package:companion/dart/mvvm/user_uistate.dart';
 import 'package:flutter/cupertino.dart';
 
 class UserViewmodel extends ValueNotifier<UserUIState>{

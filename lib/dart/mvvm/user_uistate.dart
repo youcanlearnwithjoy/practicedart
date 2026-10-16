@@ -1,4 +1,4 @@
-import 'package:companion/mvvm/user_model.dart';
+import 'package:companion/dart/mvvm/user_model.dart';
 
 class UserUIState {
   final bool isLoading;

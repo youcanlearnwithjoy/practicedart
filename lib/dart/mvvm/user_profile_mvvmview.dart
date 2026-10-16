@@ -1,8 +1,8 @@
 // ==========================================
 // 3. VIEW LAYER: Pure Observer Widget
 // ==========================================
-import 'package:companion/mvvm/user_uistate.dart';
-import 'package:companion/mvvm/user_viewmodel.dart';
+import 'package:companion/dart/mvvm/user_uistate.dart';
+import 'package:companion/dart/mvvm/user_viewmodel.dart';
 import 'package:flutter/material.dart';
 
 class UserProfileMvvmView extends StatelessWidget {

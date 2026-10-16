@@ -1,6 +1,6 @@
 
 
-import 'package:companion/misc/day1.dart';
+import 'package:companion/dart/misc/day1.dart';
 
 import 'day_one_notes.dart';
 
